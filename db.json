@@ -1,10 +1,50 @@
 {
   "teachers": [
     {
+      "id": 0,
       "firstName": "Teacher",
       "lastName": "Zero",
       "email": "teacher0@email.com",
       "phone": "9876543210"
+    },
+    {
+      "id": 1,
+      "firstName": "Teacher",
+      "lastName": "One",
+      "email": "teacher1@email.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": 2,
+      "firstName": "Teacher",
+      "lastName": "Two",
+      "email": "teacher2@email.com",
+      "phone": "9876543210"
+    },
+    {
+      "id": 3,
+      "firstName": "Teacher",
+      "lastName": "Three",
+      "email": "teacher3@email.com",
+      "phone": "9876543210"
+    }
+  ],
+  "exams": [
+    {
+      "id": 0,
+      "name": "Exam 0"
+    },
+    {
+      "id": 1,
+      "name": "Exam 1"
+    },
+    {
+      "id": 2,
+      "name": "Exam 2"
+    },
+    {
+      "id": 3,
+      "name": "Exam 3"
     }
   ]
 }
