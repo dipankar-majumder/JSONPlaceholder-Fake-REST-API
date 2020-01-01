@@ -1,0 +1,10 @@
+{
+  "teachers": [
+    {
+      "firstName": "Teacher",
+      "lastName": "Zero",
+      "email": "teacher0@email.com",
+      "phone": "9876543210"
+    }
+  ]
+}
